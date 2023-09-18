@@ -8,7 +8,7 @@
 fortress = User.new
 fortress.email = "iwan.pavord@gmail.com"
 fortress.password = "123456"
-fortress.league_name = "fortress"
+fortress.name = "fortress"
 fortress.save
 
 ["Iwan", "Jamie", "Rowan", "Angus", "Dodi", "Billy", "Toby", "Aaron" ,"Luke", "Jelan", "Elana", "Molly", "Coleman", "Charlie", "Laertis", "Rachel", "Esther", "Ben", "Warner", "Alec", "Lara", "Nick", "Otto", "Hayden", "Shafee"].each do |name|

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player: one
+  game: one
+  cards: 1
+  bet: 1
+  score: 1
+  met_bet: false
+
+two:
+  player: two
+  game: two
+  cards: 1
+  bet: 1
+  score: 1
+  met_bet: false
